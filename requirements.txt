@@ -2,5 +2,4 @@ streamlit
 numpy
 pillow
 tensorflow-cpu==2.13.1
-keras==2.13.1
 h5py>=3.1.0
