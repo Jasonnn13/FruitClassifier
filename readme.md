@@ -79,8 +79,7 @@ fruit-freshness-streamlit/
 
 ## Customization
 
-* **CSS**: Edit `assets/style.css` to tweak card and icon styles.
-* **Icons**: Update mappings in `app.py` if you add new freshness states.
+* **CSS**: Edit `styles.css` to tweak card and icon styles.
 
 ---
 
