@@ -5,7 +5,7 @@ from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array
 
 # Load your trained MobileNetV2 model (do this once, not inside the function ideally)
-model = load_model("mobilenetv2_fruit_freshness.keras")
+model = load_model("model.keras")
 
 # Define your class labels
 CLASS_NAMES = ["fresh", "mild", "rotten"]
