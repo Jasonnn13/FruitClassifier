@@ -69,7 +69,7 @@ A simple local Streamlit application that uses a Keras MobileNetV2 model to clas
 fruit-freshness-streamlit/
 ├── app.py           # Main Streamlit script
 ├── classify.py      # Loads model and defines classify_fruit()
-├── model.kerass         # Keras MobileNetV2 weights
+├── model.keras         # Keras MobileNetV2 weights
 ├── requirements.txt # Project dependencies
 ├── styles.css          # CSS
 └── README.md        # This file
