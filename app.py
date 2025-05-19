@@ -1,9 +1,5 @@
 import streamlit as st
-import numpy as np
-import time
 from PIL import Image
-import io
-import base64
 from classify import classify_fruit
 import pathlib
 
